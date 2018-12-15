@@ -1,2 +1,4 @@
 micro2: micro2
-micro3: micro2
+micro3: micro3
+
+micro2.ribbon.listOfServers: http://localhost:8082/
